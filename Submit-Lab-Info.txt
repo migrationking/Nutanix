@@ -1,0 +1,8 @@
+cd c:\Configuration Documenter
+./generate_document -c SheaBennett -n <IP Address> -e
+
+type the admin username and password in the text file on the desktop
+
+Right-Click the File and select "Download with iFrame"
+
+Add to GitHub to Submit the project
