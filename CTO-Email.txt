@@ -1,0 +1,18 @@
+CTO,
+
+Per your request, I have configured the test simulation according to your requirements. The application stack will be able to meet the company's needs for performance and availability. Through the Nutanic Hyperconverged solution we can implement changes while planning for the AWS Cloud integration into the future. The proof of concept details are below:
+
+1. 3-tier application stack with a DB server VM, AppSrv VM and WebSrv VM (Production and Development). The production environment requires was configured with Data protection using backup/restore with snapshots and no more than 1 hour of data loss after a failure. Testing was conducted for the ability to add CPU and Memory resources to running virtual machines. A full backup snapshot and restore was completed.
+
+2. Within the designated 8 hours. The following was configured:
+
+2a. Production VM's: DB-Prod-TEC, Web-Prod-TEC, App-Prod-TEC
+2b. Development VM's: DB-Dev-TEC, Web-Dev-TEC, App-Dev-TEC
+2c. Networking configurations (Production: VLAN 0, 172.31.0.0/24 (DHCP Pool: 172.31.0.210-172.31.0.230) and Development: VLAN 101, 172.31.101.0/24
+2d. Servers were configured with 4GB of RAM, 1vCPU, pool.ntp.org for NTP and 8.8.8.8 for DNS.
+2e. NTP: pool.ntp.org
+
+Please let me know if there is anything else that you need on this request.
+
+Respectfully
+CTO
