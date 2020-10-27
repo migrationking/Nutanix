@@ -1,5 +1,6 @@
 cd c:\Configuration Documenter
 ./generate_document -c SheaBennett -n <IP Address> -e
+Updated IP to 35.247.26.83
 
 type the admin username and password in the text file on the desktop
 
