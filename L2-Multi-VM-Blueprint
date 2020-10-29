@@ -1,0 +1,34 @@
+Apache Web Server Administration
+The Apache web server has a standard install and maintenance cycle using:
+
+sudo yum install -y httpd
+sudo systemctl {enable,start,status,stop,restart} httpd
+Firewall and security group access details:
+
+http is TCP port 80
+https is TCP port 443 (outside of the scope of our course)
+Configuration files are under the /etc/httpd/ directory and the web document root where programs and web pages reside in the /var/www/html/ directory.
+
+Troubleshooting logs:
+
+sudo journalctl -u httpd
+tail /etc/httpd/logs/\*.log
+
+*Configuration Files for web server /etc/httpd
+
+HAProxy uses the standard install and maintenance cycle:
+
+sudo yum install -y haproxy
+sudo systemctl {enable,start,status,stop,restart} haproxy
+We are using HAProxy to direct traffic to web servers, so the Firewall and security group access is for http on TCP port 80.
+
+The HAProxy configuration file is /etc/haproxy/haproxy.cfg
+
+For troubleshooting logs:
+
+sudo journalctl -u haproxy
+Further reference: HAProxy Project: Documentation
+
+HAProxy 1.8 Configuration
+HAProxy version: haproxy -v
+Tip: HAProxy stands for High Availability Proxy.
