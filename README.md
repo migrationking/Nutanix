@@ -12,4 +12,4 @@ Course consists of three (3) hands-on projects that must be reviewed before appr
 '''
 If anyone somehow finds my page. **DO NOT CHEAT OR PLAGIARIS MY PROJECTS AS YOUR OWN**. I only added project information here to be able to keep track of my assignments. Please do your own work since this will impact your career. 
 '''
-Please be mindful of the [Udacity Code of Conduct:] (https://www.udacity.com/legal/en-us/honor-conduct)
+Please be mindful of the [Udacity Code of Conduct:](https://www.udacity.com/legal/en-us/honor-conduct)
