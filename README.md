@@ -11,8 +11,8 @@ Course consists of three (3) hands-on projects that must be reviewed before appr
 # Udacity Students #
 <p>
 '''
-- [X] If anyone somehow finds my page. **DO NOT CHEAT OR PLAGIARIS MY PROJECTS AS YOUR OWN**. 
-- [X] I only added project information here to be able to keep track of my assignments. 
-- [ ] Please do your own work since this will impact your career. 
+- [X] If anyone somehow finds my page. **DO NOT CHEAT OR PLAGIARIS MY PROJECTS AS YOUR OWN**. <p>
+- [X] I only added project information here to be able to keep track of my assignments. <p>
+- [ ] Please do your own work since this will impact your career. <p>
 '''
 Please be mindful of the [Udacity Code of Conduct:](https://www.udacity.com/legal/en-us/honor-conduct) :+1:
