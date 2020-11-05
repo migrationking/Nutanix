@@ -14,5 +14,5 @@ Course consists of three (3) hands-on projects that must be reviewed before appr
 - [x] I only added project information here to be able to keep track of my assignments. <p>
 - [ ] Please do your own work since this will impact your career. <p>
 <p>
-Please be mindful of the [Udacity Code of Conduct:](https://www.udacity.com/legal/en-us/honor-conduct) :+1:
+Please be mindful of the Udacity Code of Conduct:(https://www.udacity.com/legal/en-us/honor-conduct) :+1:
  
