@@ -8,7 +8,7 @@ Course consists of three (3) hands-on projects that must be reviewed before appr
 2. On-Premise Private Cloud Automation (Lab-2 // L2)
 3. Public and Hybrid Cloud Management (Lab-3 // L3)
 
-# Udacity Students #
+## Udacity Students ##
 <p>
 - [x] **Please do not cheat by copying and doing plagiarism on my projects by representing content as your own**. <p>
 - [x] I only added project information here to be able to keep track of my assignments. <p>
