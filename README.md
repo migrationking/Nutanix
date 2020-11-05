@@ -9,6 +9,7 @@ Course consists of three (3) hands-on projects that must be reviewed before appr
 3. Public and Hybrid Cloud Management (Lab-3 // L3)
 
 ##**Udacity Students**##
+<b>
 '''
 If anyone somehow finds my page. **DO NOT CHEAT OR PLAGIARIS MY PROJECTS AS YOUR OWN**. I only added project information here to be able to keep track of my assignments. Please do your own work since this will impact your career. 
 '''
